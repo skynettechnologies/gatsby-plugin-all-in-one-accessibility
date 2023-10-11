@@ -1,0 +1,41 @@
+{
+  "name": "gatsby-plugin-all-in-one-accessibility",
+  "description": "Easily add All in One Accessibility snippet to your website",
+  "author": "Steven Wenzel <developer3@skynettechnologies.com>",
+  "license": "MIT",
+  "version": "5.0.0",
+  "main": "gatsby-ssr.js",
+  "homepage": "https://github.com/benjaminhoffman/gatsby-plugin-segment-js#readme",
+  "repository": "git@github.com:benjaminhoffman/gatsby-plugin-segment-js.git",
+  "bugs": {
+    "url": "https://github.com/benjaminhoffman/gatsby-plugin-segment-js/issues"
+  },
+  "keywords": [
+    "All in One Accessibility",
+    "ADA",
+    "All in One Accessibility gatsby",
+    "All in One Accessibility javascript",
+    "analytics.js",
+    "gatsby",
+    "gatsby All in One Accessibility",
+    "gatsby-plugin",
+    "gatsby-plugin All in One Accessibility"
+  ],
+  "scripts": {
+    "build": "babel src --out-dir . --ignore tests",
+    "build:watch": "yarn build -w",
+    "prepare": "yarn build",
+    "build-n-pack": "yarn build && yarn pack --filename ./gatsby-plugin-segment-js.tgz"
+  },
+  "peerDependencies": {
+    "gatsby": "^2 || ^3 || ^4 || ^5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-mocha": "^9",
+    "eslint-plugin-react": "^7.24.0"
+  }
+}
