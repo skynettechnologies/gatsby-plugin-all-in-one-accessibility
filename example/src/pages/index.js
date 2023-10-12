@@ -11,7 +11,7 @@ class IndexPage extends React.Component {
     window.analytics.track("Track Event Fired", {
       plugin: "gatsby-plugin-segment",
       author: "Ben Hoffman",
-      href: "https://github.com/benjaminhoffman/gatsby-plugin-segment"
+      href: "https://github.com/skynettechnologies/all-in-one-accessibility"
     });
 
     console.log(`

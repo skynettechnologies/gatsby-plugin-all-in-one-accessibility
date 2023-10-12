@@ -3,7 +3,7 @@
 
 # Whitelist these
 !/index.js
-!/gatsby-browser.js
+!/gatsby-browsers.js
 !/gatsby-ssr.js
 !/README.md
 !/CHANGELOG.md

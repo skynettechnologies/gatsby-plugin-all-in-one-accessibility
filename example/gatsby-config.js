@@ -8,9 +8,11 @@ module.exports = {
         {
             resolve: `gatsby-plugin-all-in-one-accessibility`,
             options: {
-                prodKey: `ADD_API_KEY_PROD`,
-                devKey: `ADD_API_KEY_DEV`,
-                trackPage: true
+                licenseKey: ``,
+                colorcode :"123abc",
+                position : "bottom_left",
+                iconType : "aioa-icon-type-2",
+                iconSize : "aioa-default-icon",
             }
         },
         `gatsby-plugin-react-helmet`,

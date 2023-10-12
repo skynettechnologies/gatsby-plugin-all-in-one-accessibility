@@ -1,14 +1,14 @@
 {
   "name": "gatsby-plugin-all-in-one-accessibility",
-  "description": "Easily add All in One Accessibility snippet to your website",
+  "description": "About It uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your Gatsby website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.",
   "author": "Steven Wenzel <developer3@skynettechnologies.com>",
   "license": "MIT",
-  "version": "5.0.0",
+  "version": "0.0.4",
   "main": "gatsby-ssr.js",
-  "homepage": "https://github.com/benjaminhoffman/gatsby-plugin-segment-js#readme",
-  "repository": "git@github.com:benjaminhoffman/gatsby-plugin-segment-js.git",
+  "homepage": "https://github.com/skynettechnologies/gatsby-plugin-all-in-one-accessibility#readme",
+  "repository": "git@github.com:skynettechnologies/gatsby-plugin-all-in-one-accessibility.git",
   "bugs": {
-    "url": "https://github.com/benjaminhoffman/gatsby-plugin-segment-js/issues"
+    "url": "https://github.com/skynettechnologies/gatsby-plugin-all-in-one-accessibility/issues"
   },
   "keywords": [
     "All in One Accessibility",
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "eslint": "^7.32.0",
     "eslint-plugin-mocha": "^9",
