@@ -1,0 +1,62 @@
+<html xmlns:f="https://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+
+<f:layout name="Backend/Default" />
+
+<f:section name="content">
+    
+    <style>
+        .get-strated-btn, .get-strated-btn:hover {
+            background-color: #2855d3;
+            color: white;
+            padding: 5px 5px;
+            text-decoration: none;
+            }
+
+        .aioa-cancel-button {
+            text-decoration: none;
+            display: inline-block;
+            vertical-align: middle;
+            border: 2px solid #420083;
+            border-radius: 4px 4px 4px 4px;
+            background-color: #420083;
+            box-shadow: 0px 0px 2px 0px #333333;
+            color: #ffffff;
+            text-align: center;
+            box-sizing: border-box;
+            padding: 10px;
+        }
+        .aioa-cancel-button:hover {
+            border-color: #420083;
+            background-color: white;
+            box-shadow: 0px 0px 2px 0px #333333;
+        }
+
+        .aioa-cancel-button:hover .mb-text {
+            color: #420083;
+        }
+    </style>
+    <div style="padding: 20px; max-width: 1440px;">
+        <h1>All in One Accessibility™</h1>
+        <hr>
+        <p style="width:80%;">All in One Accessibility widget improves website ADA compliance and browser experience for ADA, WCAG 2.1
+                & 2.2, Section 508, California Unruh Act, Australian DDA, European EAA EN 301 549, UK Equality Act (EA),
+                Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI
+                13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA
+                Standards without changing your website's existing code.</p>
+        <!-- <f:variable name="menuName"><f:translate key="cat_chat" extensionName="allinoneaccessibility" /></f:variable> -->
+        <f:if condition="({aioa_status} > 0 && {aioa_status} < 3 )">
+        <f:then>
+                <div style="width:80%; margin-top: 50px; padding-bottom: 10px;display:flex;justify-content:space-between;">
+                    <h3  style=" width: 50%;">Widget Preferences:</h3>
+                    <div><a target="_blank" class="aioa-cancel-button"  href="{manage_domain}">Manage Subscription</a></div>
+                </div>
+                <iframe id="aioamyIframe" width="80%" style="max-width: 1920px; border: none;" height="1100px"  src="{aioa_iframe}"></iframe>
+        </f:then>
+        <f:else>
+                <iframe src="https://ada.skynettechnologies.us/trial-subscription?isframe=true&website={aioa_website_domain}&utm_source=wordpress-plugin&utm_medium=create-account&utm_campaign=trial-subscription" height="1100px;" width="80%" style="border: none;"></iframe>
+        </f:else>        
+        </f:if>
+    </div>    
+</f:section>
+
+</html>
