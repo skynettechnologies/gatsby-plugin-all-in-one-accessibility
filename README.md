@@ -120,6 +120,7 @@ Following features can be added as an addon
 - Spanish (Mexico)
 - English(United Kingdom)
 
+
 ## Install
 
 
