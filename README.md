@@ -1,4 +1,4 @@
-# All in One Accessibility™: Gatsby Plugin
+# All in One Accessibility®: Gatsby Plugin
 
 All in One Accessibility AI free Widget Supports limited 23 features only and includes 140 Languages. 
    
@@ -6,7 +6,7 @@ It improves website ADA compliance and browser experience for ADA, WCAG 2.0, 2.1
    
 Follows the best industry security, SEO practices and standards ISO 9001:2015 & ISO 27001:2013 and complies with GDPR, COPPA regulations. Member of W3C and International Association of Accessibility Professionals (IAAP). It is a flexible & lightweight widget that can be changed according to law and reduces the risk of time-consuming accessibility lawsuits.
 
-For more details/features, Please visit [All in One Accessibility](https://www.skynettechnologies.com/all-in-one-accessibility)
+For more details/features, Please visit [All in One Accessibility®](https://www.skynettechnologies.com/all-in-one-accessibility)
 
 Unlock over 70 features with the All in One Accessibility Widget through a paid subscription. See the detailed comparison of Paid vs. Free features [here](https://www.skynettechnologies.com/all-in-one-accessibility/features).
 
