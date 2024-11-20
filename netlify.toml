@@ -1,8 +1,7 @@
 [build]
-base="/opt/build/repo/example"
-command="yarn run build && cp build/* releases/"
-commandOrigin="config"
-publish="/opt/build/repo/example/releases"
-publishOrigin="config"
+base="example"
+command="yarn build"
+publish="example/public"
+publishOrigin="example/"
 [[plugins]]
 package="netlify-plugin-chatbees"
