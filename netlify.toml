@@ -1,5 +1,0 @@
-[build]
-command = "yarn run build && cp build/* releases/"
-publish = "releases"
-[[plugins]]
-package = "netlify-plugin-chatbees"
