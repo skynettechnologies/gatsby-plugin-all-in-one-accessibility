@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2520ee5c-2bab-4cbb-a43f-0a9e7db9d08b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/components/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,8 @@
       <workItem from="1698995777666" duration="14000" />
       <workItem from="1708335399995" duration="2016000" />
       <workItem from="1708409397040" duration="1816000" />
-      <workItem from="1732095476339" duration="3835000" />
+      <workItem from="1732095476339" duration="5037000" />
+      <workItem from="1732527984682" duration="892000" />
     </task>
     <servers />
   </component>

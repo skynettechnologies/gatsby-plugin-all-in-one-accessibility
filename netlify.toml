@@ -1,7 +1,0 @@
-[build]
-base="example"
-command="yarn build"
-publish="example/public"
-publishOrigin="example/"
-[[plugins]]
-package="netlify-plugin-chatbees"
