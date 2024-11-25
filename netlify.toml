@@ -4,4 +4,4 @@ command="yarn build"
 publish="example/public"
 publishOrigin="example/"
 [[plugins]]
-package="netlify-plugin-chatbees"
+package="netlify-plugin-all-in-one-accessibility"
