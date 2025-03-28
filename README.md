@@ -55,7 +55,6 @@ Checkout our **[How to install All in One Accessibility Extension on Gatsby Blog
 - NPM: `$ npm install --save gatsby-plugin-all-in-one-accessibility`
 - YARN: `$ yarn add gatsby-plugin-all-in-one-accessibility`
 
-
 ### Configuration
 
 In your gatsby-config.js file:
@@ -126,11 +125,11 @@ Alternatively, you can send an email to our support team:
 
 ## Accessibility Partnership Opportunities
 
-#### **[Agencies Partnership](https://www.skynettechnologies.com/agency-partners)**
+### **[Agencies Partnership](https://www.skynettechnologies.com/agency-partners)**
 
 Partner with us as an agency to provide comprehensive accessibility solutions to your clients. Get access to exclusive resources, training, and support to help you implement and manage accessibility features effectively.
 
-#### **[Affiliated Partnership](https://www.skynettechnologies.com/affiliate-partner)**
+### **[Affiliated Partnership](https://www.skynettechnologies.com/affiliate-partner)**
 
 Join our affiliate program and earn commissions by promoting All in One Accessibility™. Share our Widget with your network and help businesses improve their website accessibility while generating revenue.
 
@@ -148,11 +147,12 @@ For more details, Please visit **[Partnership Opportunities Page](https://www.sk
 
 ## Video
 
-[![All in One Accessibility](https://img.youtube.com/vi/I-DjgZyleeI/0.jpg)](https://www.youtube.com/watch?v=I-DjgZyleeI)
+[![All in One Accessibility](https://img.youtube.com/vi/X70XtvGyvSs/0.jpg)](https://www.youtube.com/watch?v=X70XtvGyvSs)
 
 ## Credits
 
 This addon is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
 
 ## Current Maintainers
+
 - [Skynet Technologies USA LLC](https://github.com/skynettechnologies)
