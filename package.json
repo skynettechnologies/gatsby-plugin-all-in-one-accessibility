@@ -1,9 +1,9 @@
 {
   "name": "gatsby-plugin-all-in-one-accessibility",
   "description": "About It uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your Gatsby website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.",
-  "author": "Steven Wenzel <developer3@skynettechnologies.com>",
+  "author": "Skynet Technologies USA LLC <developer3@skynettechnologies.com>",
   "license": "MIT",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "gatsby-ssr.js",
   "homepage": "https://github.com/skynettechnologies/gatsby-plugin-all-in-one-accessibility#readme",
   "repository": "git@github.com:skynettechnologies/gatsby-plugin-all-in-one-accessibility.git",
